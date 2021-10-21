@@ -2,3 +2,4 @@ First line of test2.
 One more line added
 Bug fix 1
 Bug fix2
+Bug fix 3
